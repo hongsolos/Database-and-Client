@@ -39,7 +39,7 @@ Run with ./outputfile
 Fully Tested
 
 ```
-Please see testing folders for more information
+Please see Testing Folder for more information
 ```
 
 ### Future Improvement
@@ -49,8 +49,8 @@ Discontinued - Project Completed
 
 ## Timeline
 
-08/2017 - Project Initiated
-09/2017 - Project Completed
+* 08/2017 - Project Initiated
+* 09/2017 - Project Completed
 
 ## Built With
 
